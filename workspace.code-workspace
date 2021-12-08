@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\C10_teacher_activity_1-main"
+		},
+		{
+			"path": "..\\PRO-C40-Template-main\\libraries"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C10_teacher_activity_1-main"
+	}
+}
